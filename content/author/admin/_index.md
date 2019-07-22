@@ -59,26 +59,26 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fas"
   link = "mailto:gallussb@ethz.ch"  # For a direct email link, use "mailto:test@example.org".
 
+# Link to a PDF of your resume/CV from the About widget.
+ [[social]]
+   icon = "cv"
+   icon_pack = "ai"
+   link = "files/cv.pdf"
+
 #[[social]]
 #  icon = "twitter"
 #  icon_pack = "fab"
 #  link = "https://twitter.com/GeorgeCushen"
-
-#[[social]]
-#  icon = "google-scholar"
-#  icon_pack = "ai"
-#  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/benjamin9555"
 
-# Link to a PDF of your resume/CV from the About widget.
- [[social]]
-   icon = "cv"
-   icon_pack = "ai"
-   link = "files/cv.pdf"
+[[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.ch/citations?user=EIR1yVYAAAAJ&hl=en"
 
 [[social]]
     icon = "linkedin"
