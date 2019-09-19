@@ -57,7 +57,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:gallussb@ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:benjamin.gallusser@protonmail.com"  # For a direct email link, use "mailto:test@example.org".
 
 # Link to a PDF of your resume/CV from the About widget.
  [[social]]
