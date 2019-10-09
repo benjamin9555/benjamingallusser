@@ -86,6 +86,6 @@ user_groups = ["Researchers", "Visitors"]
     link = "https://www.linkedin.com/in/benjamin-gallusser"
 
 +++
-I am a Master's student in Computer Science at [ETH Zürich](https://www.ethz.ch/en.html). I am currently doing my Master's thesis with [Jan Funke](https://www.janelia.org/lab/funke-lab/) at the [Janelia Research Campus](https://www.janelia.org/) in Ashburn, VA, USA. We develop Computer Vision and Machine Learning methods for analyzing electron microscopy images of brains.
+I obtained a Master's degree in Computer Science from [ETH Zürich](https://www.ethz.ch/en.html) in September 2019. For my Master's thesis I worked with [Jan Funke](https://www.janelia.org/lab/funke-lab/) at the [Janelia Research Campus](https://www.janelia.org/) in Ashburn, VA, USA on [3D Neuron Reconstruction](https://github.com/benjamin9555/gnn_agglomeration). Jan's group develops Computer Vision and Machine Learning methods for analyzing microscopy images of brains and other biological tissue.
 
-I have been passionate about Machine Learning and Artificial Intelligence since high school. My interests also include Natural Language Understanding, High Performance Computing and Software Engineering.
+I have been passionate about Machine Learning and Artificial Intelligence since high school. My interests also include High Performance Computing, Software Engineering and Natural Language Processing.
