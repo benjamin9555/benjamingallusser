@@ -70,5 +70,5 @@ subtitle = ""
 #{{% /alert %}}
 +++
 
-[Google Scholar](https://scholar.google.ch/citations?user=EIR1yVYAAAAJ&hl=en) does an excellent job at keeping this list up-to-date. 
+[Google Scholar](https://scholar.google.ch/citations?user=EIR1yVYAAAAJ&hl=en) does an excellent job at keeping this list up to date. 
 
