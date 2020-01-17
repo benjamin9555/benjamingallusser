@@ -83,7 +83,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
     icon = "linkedin"
     icon_pack = "fab"
-    link = "https://www.linkedin.com/in/benjamin-gallusser"
+    link = "https://www.linkedin.com/in/bengallusser"
 
 +++
 I obtained a Master's degree in Computer Science from [ETH Zürich](https://www.ethz.ch/en.html) in September 2019. For my [Master's thesis](https://github.com/benjamin9555/gnn_agglomeration) I worked with [Jan Funke](https://www.janelia.org/lab/funke-lab/) at the [Janelia Research Campus](https://www.janelia.org/) in Ashburn, VA, USA on 3D Neuron Reconstruction. Jan's group develops Computer Vision and Machine Learning methods for analyzing microscopy images of brains and other biological tissue.
