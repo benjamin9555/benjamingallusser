@@ -35,7 +35,7 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Visiting Scientist"
+  course = "Visiting Student Researcher"
   institution = "Howard Hughes Medical Institute, Janelia Research Campus"
   year = "2019"
 
