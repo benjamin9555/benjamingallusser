@@ -9,14 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "M.Sc. Computer Science"
+role = "Software Engineer and Research Assistant"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "ETH Zürich", url = "" } ]
+organizations = [ { name = "Harvard Medical School", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include Machine Learning, Natural Language Understanding and Computer Vision."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -31,7 +31,7 @@ email = ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
+user_groups = []
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
@@ -86,6 +86,13 @@ user_groups = ["Researchers", "Visitors"]
     link = "https://www.linkedin.com/in/bengallusser"
 
 +++
-I obtained a Master's degree in Computer Science from [ETH Zürich](https://www.ethz.ch/en.html) in September 2019. For my [Master's thesis](https://github.com/benjamin9555/gnn_agglomeration) I worked with [Jan Funke](https://www.janelia.org/lab/funke-lab/) at the [Janelia Research Campus](https://www.janelia.org/) in Ashburn, VA, USA on 3D Neuron Reconstruction. Jan's group develops Computer Vision and Machine Learning methods for analyzing microscopy images of brains and other biological tissue.
+### Short bio 
 
-I have been passionate about Machine Learning and Artificial Intelligence since high school. My interests also include High Performance Computing, Software Engineering and Natural Language Processing.
+I take pleasure in developing computational methods to answer scientific questions and to make the world more enjoyable.
+I have obtained a Master's degree in Computer Science from [ETH Zürich](https://inf.ethz.ch) with a focus on Machine Learning and got excited about using it for analyzing large microscopy image datasets. 
+
+Currently, I am developing and carrying out the computational efforts to automate cell organelle segmentation in electron microscopy data in [Tom Kirchhausen's lab](https://kirchhausen.hms.harvard.edu) at Harvard Medical School. Among other intriguing things, Tom's lab uses various state-of-the-art microscopy imaging techniques 
+<!--such as [lattice light-sheet](https://en.wikipedia.org/wiki/Lattice_light-sheet_microscopy) and [serial block-face scanning electron microscopy](https://www.embl.de/services/core_facilities/em/services/fibsem/),-->
+to examine subcellular and molecular structures in order to advance the understanding of many diseases such as cancer and viral infections. 
+
+Before starting my current position, I spent time at the [Janelia Research Campus](https://www.janelia.org/) for writing my [Master's thesis](https://github.com/benjamin9555/project_summaries/blob/master/msc_thesis_learning_to_agglomerate_in_region_adjacency_graphs.pdf). I worked on 3D Neuron Reconstruction from electron microscopy images with [Jan Funke](https://www.janelia.org/lab/funke-lab/), whose group mainly develops Computer Vision and Machine Learning methods for analyzing microscopy images of brains. 
